@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @leGeekMaka
-- 👀 I’m interested in Javascript, c#, PHP (Laravel), Flutter
-- 🌱 I’m currently learning Flutter
+- 👋 Hi, I’m @alex_gobe
+- 👀 I’m interested in Javascript, c#, PHP (Laravel)
+- 🌱 I’m currently learning .NET CORE
 - 💞️ I’m looking to collaborate on NOT YET 
 - 📫 How to reach me alexgobe92@gmail.com
 
